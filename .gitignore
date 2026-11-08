@@ -1,0 +1,50 @@
+# Dépendances et fichiers locaux
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+secrets/
+
+# Données et documents clients locaux
+/data/
+/uploads/
+/storage/
+**/donnees-clients/
+**/factures-reelles/
+*.dump
+*.sql
+*.sqlite
+*.sqlite3
+
+# Journaux et fichiers temporaires
+*.log
+logs/
+tmp/
+temp/
+
+# Environnements et caches Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Dépendances et sorties web/build
+node_modules/
+dist/
+build/
+coverage/
+.next/
+.nuxt/
+
+# Environnements locaux et IDE
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
