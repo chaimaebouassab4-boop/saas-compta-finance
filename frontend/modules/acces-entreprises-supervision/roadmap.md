@@ -1,0 +1,4 @@
+- [x] Create Lovable Cloud authentication and organization-scoped finance storage.
+- [ ] Build the French home, signup/sign-in and protected company workspace.
+- [ ] Complete upload, manual invoice correction, validation, invoicing and payment tracking.
+- [ ] Run application tests and verify the central signed-in flow.

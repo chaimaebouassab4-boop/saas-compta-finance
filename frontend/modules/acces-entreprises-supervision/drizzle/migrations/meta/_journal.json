@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1793878047051,
+      "tag": "0000_finance_workspace_core",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1793878118650,
+      "tag": "0001_secure_finance_documents",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1793878166030,
+      "tag": "0002_create_company_owner_membership",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1793878333919,
+      "tag": "0003_audit_invoices_and_record_payments",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1793878430921,
+      "tag": "0004_accountant_invitations_and_validation_rules",
+      "breakpoints": true
+    }
+  ]
+}
